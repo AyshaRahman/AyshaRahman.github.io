@@ -1,0 +1,22 @@
+body {
+	background-color: black;
+	background-image: url(../imgs/hot_drink.jpg); no-repeat center center fixed;
+	background-size: cover;
+}
+.resize {
+	width: 100%;
+	height: 100%;
+}
+.resize2 {
+	width: 100%
+}
+.rheight {
+	max-height: 200px;
+}
+h4 {font-family: 'bookman old style'
+}
+.csize {
+	width: 400px;
+	height: 300px;
+
+}
